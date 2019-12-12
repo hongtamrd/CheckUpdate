@@ -33,8 +33,8 @@
         "type": "directory",
         "children": [
             {
-                "path": "lib/AILibrary.dll",
-                "name": "AILibrary.dll",
+                "path": "lib/Update.dll",
+                "name": "Update.dll",
                 "type": "file",
                 "hash": "0xE754A52E5A9D93CA4675884E4F45B945",
                 "download": "https://drive.google.com/uc?id=1kHSG4t4WvDP24PcP1cLurN74n5DSBtFd&export=download"
