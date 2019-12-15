@@ -4,14 +4,6 @@
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
         {
-            "path": "OlympiaRĐ.exe",
-            "name": "OlympiaRĐ.exe",
-            "type": "file",
-            "size": "8760320",
-            "hash": "0x0325BBFDFE55E001AA67A18AF13CA6B5",
-            "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
-        },
-        {
             "path": "help",
             "name": "help",
             "type": "directory",
@@ -342,6 +334,14 @@
                     ]
                 }
             ]
+        },
+        {
+            "path": "OlympiaRĐ.exe",
+            "name": "OlympiaRĐ.exe",
+            "type": "file",
+            "size": "8760320",
+            "hash": "0x0325BBFDFE55E001AA67A18AF13CA6B5",
+            "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
         }
     ]
 }
