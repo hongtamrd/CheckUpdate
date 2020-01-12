@@ -1,5 +1,5 @@
 {
-    "version": "3.2",
+    "version": "3.2b",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
@@ -67,16 +67,16 @@
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "806963",
-                    "hash": "0xC34DEB9997B6C7BDC2BF5F9939FC59FD",
+                    "size": "807491",
+                    "hash": "0x92BDAA192912B064EDC14A50EA488EB1",
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "107875",
-                    "hash": "0x75FD106E198D0A66296667C859A564BD",
+                    "size": "107629",
+                    "hash": "0x5B8225F098FAF14001DA4C413BB23BFE",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
                 },
                 {
@@ -348,7 +348,7 @@
             "name": "OlympiaRĐ.exe",
             "type": "file",
             "size": "8790528",
-            "hash": "0x04707BFB6AD9157073FB6B24AD476318",
+            "hash": "0xE4F282EE6EE7E3E4444573937D0B7D75",
             "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
         }
     ]
