@@ -7,8 +7,8 @@
             "path": "Update.exe",
             "name": "Update.exe",
             "type": "file",
-            "size": "5894144",
-            "hash": "0xFECC7C90EB3BFC2B8129FF22B03CAD2E",
+            "size": "5900288",
+            "hash": "0xB632530969D7CA2232F9A4C8AB821E61",
             "download": "https://drive.google.com/uc?id=1BfuedidxxYLpZfAsbE9o0kmsyfTnP4f0&export=download"
         },
         {
@@ -347,8 +347,8 @@
             "path": "OlympiaRĐ.exe",
             "name": "OlympiaRĐ.exe",
             "type": "file",
-            "size": "8790528",
-            "hash": "0xE4F282EE6EE7E3E4444573937D0B7D75",
+            "size": "10160128",
+            "hash": "0xDD7169735750BA2749192E04E5AEAABE",
             "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
         }
     ]
