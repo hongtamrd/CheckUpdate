@@ -59,40 +59,40 @@
                     "path": "lib/MCdLibrary.dll",
                     "name": "MCdLibrary.dll",
                     "type": "file",
-                    "size": "216585",
-                    "hash": "0x10E932F43DC7DE727A10A0C3EAD05966",
+                    "size": "216953",
+                    "hash": "0x03156AD13FD4CA090196C89BFFCB5CBB",
                     "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "808107",
-                    "hash": "0xD58E1F82CD87904D005A7C87547008FD",
+                    "size": "807969",
+                    "hash": "0xA26F668011AC4179AE356C700B4AB5B3",
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "108097",
-                    "hash": "0xF85228806EA5CF806407FDF4F3131E02",
+                    "size": "108203",
+                    "hash": "0xE3C8A484F18DF929E6365E0A0B53268E",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
                 },
                 {
                     "path": "lib/MMcLibrary.dll",
                     "name": "MMcLibrary.dll",
                     "type": "file",
-                    "size": "1943411",
-                    "hash": "0xD163A341F155BDD3E5A8876E28490F66",
+                    "size": "1943493",
+                    "hash": "0x7DC9864570E89246E8F580FC03B02582",
                     "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
                 },
                 {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
-                    "size": "1938519",
-                    "hash": "0x0567DA5E859B74D8BC9A404F642CC46F",
+                    "size": "1938471",
+                    "hash": "0xEA1E3EDF43653369686AE4F52232EB73",
                     "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
                 },
                 {
