@@ -4,27 +4,20 @@
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
         {
-            "path": "help",
-            "name": "help",
-            "type": "directory",
-            "children": [
-                {
-                    "path": "help/Help.chm",
-                    "name": "Help.chm",
-                    "type": "file",
-                    "size": "5569281",
-                    "hash": "0x81ECE1196F065F127EF9150434D337A8",
-                    "download": "https://drive.google.com/uc?id=1wPv4sc5asNYiY4rkKFmvtwetKwljVY5F&export=download"
-                }
-            ]
+            "path": "Update.exe",
+            "name": "Update.exe",
+            "type": "file",
+            "size": "10351616",
+            "hash": "0x80B0CD44BF25B83D39C1BA4453D4413B",
+            "download": "https://drive.google.com/uc?id=1OkOJBl61eP6Y-WosWSErJGkkWSltE6BU&export=download"
         },
         {
-            "path": "OlympiaRĐ.exe",
-            "name": "OlympiaRĐ.exe",
+            "path": "Youtube_View.exe",
+            "name": "Youtube_View.exe",
             "type": "file",
-            "size": "8798208",
-            "hash": "0x7231C3B3B73E050B1F5802ABAA60BAB7",
-            "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
+            "size": "19744256",
+            "hash": "0x771631B3B44FD795924A74F3C50ABAE1",
+            "download": "https://drive.google.com/uc?id=1e1maPkpNMeIaNS5Ca9YRQzPUT5KCDcGx&export=download"
         }
     ]
 }
