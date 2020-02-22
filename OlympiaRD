@@ -1,5 +1,5 @@
 {
-    "version": "3.2b",
+    "version": "3.3",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
@@ -60,23 +60,23 @@
                     "name": "MCdLibrary.dll",
                     "type": "file",
                     "size": "216953",
-                    "hash": "0x03156AD13FD4CA090196C89BFFCB5CBB",
+                    "hash": "0xC995B15DB96AB7170F457C63DFAF59F7",
                     "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "807969",
-                    "hash": "0xA26F668011AC4179AE356C700B4AB5B3",
+                    "size": "807773",
+                    "hash": "0x1C031F4B49FE9ADE9E5E0B82BA6F3BF1",
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "108203",
-                    "hash": "0xE3C8A484F18DF929E6365E0A0B53268E",
+                    "size": "108221",
+                    "hash": "0x47532EC1929773F6F9B01625B47A8DDF",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
                 },
                 {
@@ -84,7 +84,7 @@
                     "name": "MMcLibrary.dll",
                     "type": "file",
                     "size": "1943493",
-                    "hash": "0x7DC9864570E89246E8F580FC03B02582",
+                    "hash": "0x237338EF2CAC1BF971E39460F40017AD",
                     "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
                 },
                 {
@@ -92,7 +92,7 @@
                     "name": "MTsLibrary.dll",
                     "type": "file",
                     "size": "1938471",
-                    "hash": "0xEA1E3EDF43653369686AE4F52232EB73",
+                    "hash": "0x3807DF8606FEDCD791DE47C4CB9BE2FE",
                     "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
                 },
                 {
@@ -348,7 +348,7 @@
             "name": "OlympiaRĐ.exe",
             "type": "file",
             "size": "8798208",
-            "hash": "0x7231C3B3B73E050B1F5802ABAA60BAB7",
+            "hash": "0x42F68641CD56A87C7552096797DCA0AD",
             "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
         }
     ]
