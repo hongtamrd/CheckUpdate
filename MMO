@@ -1,5 +1,5 @@
 {
-    "version": "1.6",
+    "version": "1.6b",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
@@ -15,8 +15,8 @@
             "path": "Youtube_View.exe",
             "name": "Youtube_View.exe",
             "type": "file",
-            "size": "20809216",
-            "hash": "0x4908D06FD4E0A5639F68ACA46AF1F9A1",
+            "size": "20814336",
+            "hash": "0x4B8D7D61AE0D1CFD5374F72F60ADAA20",
             "download": "https://drive.google.com/uc?id=1e1maPkpNMeIaNS5Ca9YRQzPUT5KCDcGx&export=download"
         },
         {
