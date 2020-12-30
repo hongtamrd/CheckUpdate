@@ -1,7 +1,7 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "link_home": "http://hongtamrd.com",
-    "link_update": "http://bit.ly/OlympiaRD",
+    "link_update": "http://bit.ly/OlympiaRD-tieuhoc",
     "directory": [
         {
             "path": "Update.exe",
@@ -9,22 +9,7 @@
             "type": "file",
             "size": "5900288",
             "hash": "0xEA3F65A6740C778E384EF948F90D6B26",
-            "download": "https://drive.google.com/uc?id=1BfuedidxxYLpZfAsbE9o0kmsyfTnP4f0&export=download"
-        },
-        {
-            "path": "help",
-            "name": "help",
-            "type": "directory",
-            "children": [
-                {
-                    "path": "help/Help.chm",
-                    "name": "Help.chm",
-                    "type": "file",
-                    "size": "5569281",
-                    "hash": "0x81ECE1196F065F127EF9150434D337A8",
-                    "download": "https://drive.google.com/uc?id=1wPv4sc5asNYiY4rkKFmvtwetKwljVY5F&export=download"
-                }
-            ]
+            "download": "https://drive.google.com/uc?id=1AJUtLiYblS4u5_MaffnragqDqkZYTnm2&export=download"
         },
         {
             "path": "lib",
@@ -37,7 +22,15 @@
                     "type": "file",
                     "size": "1221800",
                     "hash": "0x6A2432AF870819E7357B38820374C026",
-                    "download": "https://drive.google.com/uc?id=1kHSG4t4WvDP24PcP1cLurN74n5DSBtFd&export=download"
+                    "download": "https://drive.google.com/uc?id=1G_uFwrA2t7tvAREWMSm8sEQqoAsf1djD&export=download"
+                },
+                {
+                    "path": "lib/Config.ini",
+                    "name": "Config.ini",
+                    "type": "file",
+                    "size": "746",
+                    "hash": "0x62CF6E19B54E008F1D502422BFED4AB2",
+                    "download": "https://drive.google.com/uc?id=1GoxW8V83vAsm5WYnOvas23B0k_Zp5HxS&export=download"
                 },
                 {
                     "path": "lib/HlLibrary.dll",
@@ -45,7 +38,7 @@
                     "type": "file",
                     "size": "1064",
                     "hash": "0x5ADCFF035C911AC86975A2DEDC01E343",
-                    "download": "https://drive.google.com/uc?id=1I_SFOS-77HfFi3adtK-0lXugvyl4VhhO&export=download"
+                    "download": "https://drive.google.com/uc?id=1fq4w5UJDyhtixXlSiIA8gUBDYp-rLQbr&export=download"
                 },
                 {
                     "path": "lib/LDLibrary.dll",
@@ -53,47 +46,31 @@
                     "type": "file",
                     "size": "56258",
                     "hash": "0x5E429C28683DD7F87A161B650CABF7BB",
-                    "download": "https://drive.google.com/uc?id=1iU6Hyarg_NbmwbywgAaNPmhCvQTS97HQ&export=download"
+                    "download": "https://drive.google.com/uc?id=1OHBSzYMG7DvoaO9S0TOFzJgQwqk-97Eo&export=download"
                 },
                 {
-                    "path": "lib/MCdLibrary.dll",
-                    "name": "MCdLibrary.dll",
+                    "path": "lib/License.dat",
+                    "name": "License.dat",
                     "type": "file",
-                    "size": "216953",
-                    "hash": "0xC995B15DB96AB7170F457C63DFAF59F7",
-                    "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
-                },
-                {
-                    "path": "lib/MChLibrary.dll",
-                    "name": "MChLibrary.dll",
-                    "type": "file",
-                    "size": "108221",
-                    "hash": "0x47532EC1929773F6F9B01625B47A8DDF",
-                    "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
+                    "size": "108",
+                    "hash": "0xB55BD1834B2D87B774284A84D17A092C",
+                    "download": "https://drive.google.com/uc?id=1IV8Z88R2igSkrmN6yPbXVgFBUFTy2Kt_&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "799895",
-                    "hash": "0x9389CFAADE3354B42330FFDF87063277",
-                    "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
-                },
-                {
-                    "path": "lib/MMcLibrary.dll",
-                    "name": "MMcLibrary.dll",
-                    "type": "file",
-                    "size": "1943493",
-                    "hash": "0x237338EF2CAC1BF971E39460F40017AD",
-                    "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
+                    "size": "796065",
+                    "hash": "0xF722B59A2005ABFDD6357038CE458350",
+                    "download": "https://drive.google.com/uc?id=1RS56FugXLVGv8J06zZJA_-3O1LHFhkFh&export=download"
                 },
                 {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
-                    "size": "1938471",
-                    "hash": "0x3807DF8606FEDCD791DE47C4CB9BE2FE",
-                    "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
+                    "size": "1976453",
+                    "hash": "0x6448EB457152B98EB6C755D5F650DCF2",
+                    "download": "https://drive.google.com/uc?id=1Jy9cC4B740481fj9ZElv3wWDLLU4KwKt&export=download"
                 },
                 {
                     "path": "lib/Update.dll",
@@ -101,7 +78,7 @@
                     "type": "file",
                     "size": "116298",
                     "hash": "0x1021466CB057080C79E243475F1CA4B9",
-                    "download": "https://drive.google.com/uc?id=1TXLCvvoQdYGCH8Zklc-S4GN9qR3lEpL9&export=download"
+                    "download": "https://drive.google.com/uc?id=1a-4nTFW72Mls-lJ6gUQ6gC7ekXj8OzSI&export=download"
                 },
                 {
                     "path": "lib/icon",
@@ -114,7 +91,7 @@
                             "type": "file",
                             "size": "53698",
                             "hash": "0x75ADB327187D501CBECFB8E42F93BA78",
-                            "download": "https://drive.google.com/uc?id=1ncYkMCDtEVu25_2nUdDp3-WUjiGw12Bu&export=download"
+                            "download": "https://drive.google.com/uc?id=1ukpA9WeH2-iKtcowXtvfa8yNTb3F5ji1&export=download"
                         },
                         {
                             "path": "lib/icon/dadung.ico",
@@ -122,7 +99,7 @@
                             "type": "file",
                             "size": "47323",
                             "hash": "0x3CA58BF4F21724E563CDC1F5166A5F2E",
-                            "download": "https://drive.google.com/uc?id=1sSukZNzqiet-I2lB9AIrNLUD2HSNjHu-&export=download"
+                            "download": "https://drive.google.com/uc?id=1LiE5DnQzOUqWRMrt96IiJiVH9xxQDpvn&export=download"
                         },
                         {
                             "path": "lib/icon/dasai.ico",
@@ -130,7 +107,7 @@
                             "type": "file",
                             "size": "46484",
                             "hash": "0x113E85220ECA335C9E02B60CD9EED197",
-                            "download": "https://drive.google.com/uc?id=1UX3xwyZwvFV0pbKxY2YLo5q-Cfr7beN0&export=download"
+                            "download": "https://drive.google.com/uc?id=1DgYw9gUzj4KOEG0gNS7xpaehr0Q5Qmo2&export=download"
                         },
                         {
                             "path": "lib/icon/icon_maycd.ico",
@@ -138,7 +115,7 @@
                             "type": "file",
                             "size": "370070",
                             "hash": "0x48EDC026C7FCEF1BC1412D4BC8F94736",
-                            "download": "https://drive.google.com/uc?id=1os6-uFpmEL3nCpQw-Zgalvcbs4nWSKgk&export=download"
+                            "download": "https://drive.google.com/uc?id=14UsjkiCOefgwRth88zW-RTmD6RBk-jmR&export=download"
                         },
                         {
                             "path": "lib/icon/icon_maych.ico",
@@ -146,7 +123,7 @@
                             "type": "file",
                             "size": "370070",
                             "hash": "0x48EDC026C7FCEF1BC1412D4BC8F94736",
-                            "download": "https://drive.google.com/uc?id=1JILi5cyV_-3yMl3NpLl2zOmRaqHrnDVl&export=download"
+                            "download": "https://drive.google.com/uc?id=1MhsHF7p2skPyuWPtHicMm0m96172v8-1&export=download"
                         },
                         {
                             "path": "lib/icon/icon_maychu.ico",
@@ -154,7 +131,7 @@
                             "type": "file",
                             "size": "370070",
                             "hash": "0x61C12B1A44CE375940424090A90248D7",
-                            "download": "https://drive.google.com/uc?id=1nDsH0QxaqooTqq5K7IEU0upIDGgJxYL2&export=download"
+                            "download": "https://drive.google.com/uc?id=1HqNxyjoZbkCqhm39maANkgBco7lxX-MD&export=download"
                         },
                         {
                             "path": "lib/icon/icon_maymc.ico",
@@ -162,7 +139,7 @@
                             "type": "file",
                             "size": "370070",
                             "hash": "0x3E035078268EFC5E83A84D93011174B0",
-                            "download": "https://drive.google.com/uc?id=1xAKHUkJxYR9rV9OA5lxwGIln_EInb9BX&export=download"
+                            "download": "https://drive.google.com/uc?id=16UtxY4SifBy9AC71v-wwXHsWudsw4Rg0&export=download"
                         },
                         {
                             "path": "lib/icon/icon_mayts.ico",
@@ -170,7 +147,23 @@
                             "type": "file",
                             "size": "370070",
                             "hash": "0x8E7A59B92D65B23184C763E7EB3C1E7C",
-                            "download": "https://drive.google.com/uc?id=1o5CRmgIPYSk8lR8A7uZNWgWkMrlbW7os&export=download"
+                            "download": "https://drive.google.com/uc?id=1x-847QP3FJ83RUXmR935Pha7mZnli7zv&export=download"
+                        },
+                        {
+                            "path": "lib/icon/sao.ico",
+                            "name": "sao.ico",
+                            "type": "file",
+                            "size": "119282",
+                            "hash": "0x2A61682DEE37115D31EF58AEBADED300",
+                            "download": "https://drive.google.com/uc?id=1lqMCpCZPOpaw3Wx5UDcW84Y21RWwWhvg&export=download"
+                        },
+                        {
+                            "path": "lib/icon/sao_an.ico",
+                            "name": "sao_an.ico",
+                            "type": "file",
+                            "size": "109032",
+                            "hash": "0x5B56014F67B9EA48FA3511FA4B62261B",
+                            "download": "https://drive.google.com/uc?id=14qt4mzxhO0i9bRjyI-DV0obFFiKgXRbK&export=download"
                         },
                         {
                             "path": "lib/icon/thietlap.ico",
@@ -178,7 +171,7 @@
                             "type": "file",
                             "size": "110168",
                             "hash": "0x00E76AFEA58A4EDC9E9B3B5D44F4E97D",
-                            "download": "https://drive.google.com/uc?id=1k5DCN623e_xR863NT2qkvuey72AEKH0O&export=download"
+                            "download": "https://drive.google.com/uc?id=1DanQl0XkreKXTKLpgRor5tVTqH0GuXpF&export=download"
                         },
                         {
                             "path": "lib/icon/thongtin.ico",
@@ -186,7 +179,7 @@
                             "type": "file",
                             "size": "50844",
                             "hash": "0xB4CEA3AFF53CB34ACEF8E3C83F6813DE",
-                            "download": "https://drive.google.com/uc?id=1i5Y7-1r12lcuKY-55o9JuZfwWh8jnUIB&export=download"
+                            "download": "https://drive.google.com/uc?id=1RVDOUdOpzVU0gtIBAcJZOCAD_kM1P8Vq&export=download"
                         }
                     ]
                 },
@@ -201,7 +194,7 @@
                             "type": "file",
                             "size": "237282",
                             "hash": "0xF8FE91EDDCFBC53B2C3ED5FC0F3E5765",
-                            "download": "https://drive.google.com/uc?id=12fj-d60HkzZPFmYuceJVKciW_3GPSxWq&export=download"
+                            "download": "https://drive.google.com/uc?id=1ux8XKkdWe36lCEw6qo2riZOlKC7A4TUA&export=download"
                         },
                         {
                             "path": "lib/image/Manh1.png",
@@ -209,7 +202,7 @@
                             "type": "file",
                             "size": "83916",
                             "hash": "0xC0081161C40DB4FFCDF3D02C64A9537D",
-                            "download": "https://drive.google.com/uc?id=1p5U78_Ut5nNSe3avr-LPaYWTY9cet8XX&export=download"
+                            "download": "https://drive.google.com/uc?id=10C3GworpqCNoPU1dCeES4fCsLMJWTBrc&export=download"
                         },
                         {
                             "path": "lib/image/Manh2.png",
@@ -217,7 +210,7 @@
                             "type": "file",
                             "size": "81832",
                             "hash": "0x636DE69FFA2C221B1085DF138D80CE49",
-                            "download": "https://drive.google.com/uc?id=1NyWq5tfDR19rON6HAgTwvLK2nymkHiYW&export=download"
+                            "download": "https://drive.google.com/uc?id=1P1pMPNvKhioX0dVApzm90GuNaiTWu_0O&export=download"
                         },
                         {
                             "path": "lib/image/Manh3.png",
@@ -225,7 +218,7 @@
                             "type": "file",
                             "size": "77090",
                             "hash": "0x0914CB5DF3A924C4B9268A253F79FC33",
-                            "download": "https://drive.google.com/uc?id=1LlbFe1OZrM-VCYryxVXw_2oZK_iUJJfp&export=download"
+                            "download": "https://drive.google.com/uc?id=1cxLSlmE39H3k8WAkeGEUt_gK6gYqYrYT&export=download"
                         },
                         {
                             "path": "lib/image/Manh4.png",
@@ -233,7 +226,7 @@
                             "type": "file",
                             "size": "84633",
                             "hash": "0x17E271D57658D660A189387946251FE1",
-                            "download": "https://drive.google.com/uc?id=1jrgGXYp21mv3DVn0VQ62b-25Or6FxUXU&export=download"
+                            "download": "https://drive.google.com/uc?id=1rw98X7JzPn34deqTMZWzZegULYdYXgjy&export=download"
                         },
                         {
                             "path": "lib/image/Manh5.png",
@@ -241,7 +234,7 @@
                             "type": "file",
                             "size": "82194",
                             "hash": "0x8ABDD5918F6791EAC725CEBB42001C1F",
-                            "download": "https://drive.google.com/uc?id=1LBIgHPLdpXezjkQcEhz1NJMH15bWyB58&export=download"
+                            "download": "https://drive.google.com/uc?id=14091HVP0rqi2xIlYEUXkrtd52dskYhLV&export=download"
                         },
                         {
                             "path": "lib/image/Manh6.png",
@@ -249,7 +242,7 @@
                             "type": "file",
                             "size": "82194",
                             "hash": "0x8ABDD5918F6791EAC725CEBB42001C1F",
-                            "download": "https://drive.google.com/uc?id=126uXvHjdq26-haQ-ONWdz2EHsNPGbTcC&export=download"
+                            "download": "https://drive.google.com/uc?id=1x_jH5LQcWrnrfA-ts_oDYmsSAZLd5Fhs&export=download"
                         },
                         {
                             "path": "lib/image/maychieu.png",
@@ -257,7 +250,7 @@
                             "type": "file",
                             "size": "4828",
                             "hash": "0x545897215C11F9E380A99B97B26A6C87",
-                            "download": "https://drive.google.com/uc?id=1qduKzFmJkvgu1yZpYKG_5rVlq5Ia-MJV&export=download"
+                            "download": "https://drive.google.com/uc?id=12NrTxyrKogYiFNaAqS4m9CuvsL8Qpwtw&export=download"
                         },
                         {
                             "path": "lib/image/maychieu_h.png",
@@ -265,7 +258,7 @@
                             "type": "file",
                             "size": "30161",
                             "hash": "0x02F7691D747790BC33963041704E2F4F",
-                            "download": "https://drive.google.com/uc?id=1ffB9txrmQm6RWiFb7qCjAMFVuWD89wd7&export=download"
+                            "download": "https://drive.google.com/uc?id=1ncq4oKXIq8hfEsXAvJDjfzhUNha9XfDn&export=download"
                         },
                         {
                             "path": "lib/image/maychieudiem.png",
@@ -273,7 +266,7 @@
                             "type": "file",
                             "size": "15677",
                             "hash": "0xBA9D3842D5463A46ADFFFDC5F81D5054",
-                            "download": "https://drive.google.com/uc?id=1XIp8KLxPoqZRPIJZU_uN6-lRu3zrsDIv&export=download"
+                            "download": "https://drive.google.com/uc?id=1nctt7GdYXLsufNIdcVnAYtYI0l3t8Upb&export=download"
                         },
                         {
                             "path": "lib/image/maychieudiem_h.png",
@@ -281,7 +274,7 @@
                             "type": "file",
                             "size": "31356",
                             "hash": "0xDDC5CB25C00B87512649AFD29AB7CE90",
-                            "download": "https://drive.google.com/uc?id=19LymixlxC7zJZgW7umWjLFoZObZxrMFW&export=download"
+                            "download": "https://drive.google.com/uc?id=1YVvfhHzxrnGaYk5WDB_zAA0eUhAqgeA7&export=download"
                         },
                         {
                             "path": "lib/image/maychu.png",
@@ -289,7 +282,7 @@
                             "type": "file",
                             "size": "89025",
                             "hash": "0xA7D45B0C733D73FB344B1E555898AF93",
-                            "download": "https://drive.google.com/uc?id=17taFnNEt0Q1TbTijWR4P8pCUTmDhpDmN&export=download"
+                            "download": "https://drive.google.com/uc?id=1YApLbBYWskSc9g9amntPgE8s2G4v9xdr&export=download"
                         },
                         {
                             "path": "lib/image/maymc.png",
@@ -297,7 +290,7 @@
                             "type": "file",
                             "size": "41131",
                             "hash": "0x8B235DC74ADC7696429A46490E0C8C0C",
-                            "download": "https://drive.google.com/uc?id=1P6Gt-ACObejUcMNLxGJd8bt-wiVXPxXn&export=download"
+                            "download": "https://drive.google.com/uc?id=1jAdVD42Du8Izxj9rECDzmPiZYHyzqbCA&export=download"
                         },
                         {
                             "path": "lib/image/maymc_h.png",
@@ -305,7 +298,7 @@
                             "type": "file",
                             "size": "75053",
                             "hash": "0xA6588590A40E0B5C635A87EA7FB88D5A",
-                            "download": "https://drive.google.com/uc?id=1Bl_ef6m5IntudqiaWObvF_VWJuxyd65S&export=download"
+                            "download": "https://drive.google.com/uc?id=1VTZ4mjja7hqruYl2Xl_JD7DSrUF0pBjd&export=download"
                         },
                         {
                             "path": "lib/image/maythisinh.png",
@@ -313,7 +306,7 @@
                             "type": "file",
                             "size": "65956",
                             "hash": "0x511BBE9F620324A6D3BB3F84529B28C8",
-                            "download": "https://drive.google.com/uc?id=1OjgmExq8Bg2V1agHvwD1IIb-2Jirmf7H&export=download"
+                            "download": "https://drive.google.com/uc?id=1SSGe3Lr2N4MzdLG6MOjG3DRKtwING2uB&export=download"
                         },
                         {
                             "path": "lib/image/maythisinh_h.png",
@@ -321,7 +314,7 @@
                             "type": "file",
                             "size": "76771",
                             "hash": "0x5E90B53C5AA5D58F4D6490F0F81C9081",
-                            "download": "https://drive.google.com/uc?id=19xTzeWYmflX1rTcodnpNbV8hmuRmBZyO&export=download"
+                            "download": "https://drive.google.com/uc?id=11tKGulkowQ3dfT2aIxiSCnZOsTT6hIa6&export=download"
                         },
                         {
                             "path": "lib/image/sao.png",
@@ -329,7 +322,7 @@
                             "type": "file",
                             "size": "88311",
                             "hash": "0x4A13E85FFD68E7693545A7D0A9E9C307",
-                            "download": "https://drive.google.com/uc?id=1m-Wk-tNqiwlwBGrQu-tLN_rKdKd2WLug&export=download"
+                            "download": "https://drive.google.com/uc?id=1oK2oSp0x9QJCMDGoYLcy8ktJ-Yjy1P0E&export=download"
                         },
                         {
                             "path": "lib/image/sao_an.png",
@@ -337,7 +330,7 @@
                             "type": "file",
                             "size": "45461",
                             "hash": "0x943BD6FFEE621E47AE7277F44F72421F",
-                            "download": "https://drive.google.com/uc?id=12J1n50agJyBwITJfEkRhbSNd8LxgFQ8D&export=download"
+                            "download": "https://drive.google.com/uc?id=1fjhZZ1UyjZUyIQkX21Ls4JxzQfCD2fGa&export=download"
                         }
                     ]
                 }
@@ -347,9 +340,9 @@
             "path": "OlympiaRĐ.exe",
             "name": "OlympiaRĐ.exe",
             "type": "file",
-            "size": "8798208",
-            "hash": "0x42F68641CD56A87C7552096797DCA0AD",
-            "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
+            "size": "8655872",
+            "hash": "0xC390B1A5A35F60AE2B952AD514498C10",
+            "download": "https://drive.google.com/uc?id=1jhZlZA83OkcBDuCh3kCwG9OgVonAx4yn&export=download"
         }
     ]
 }
