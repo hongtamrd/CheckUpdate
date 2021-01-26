@@ -64,20 +64,20 @@
                     "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
                 },
                 {
-                    "path": "lib/MCLibrary.dll",
-                    "name": "MCLibrary.dll",
-                    "type": "file",
-                    "size": "807773",
-                    "hash": "0x1C031F4B49FE9ADE9E5E0B82BA6F3BF1",
-                    "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
-                },
-                {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
                     "size": "108221",
                     "hash": "0x47532EC1929773F6F9B01625B47A8DDF",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
+                },
+                {
+                    "path": "lib/MCLibrary.dll",
+                    "name": "MCLibrary.dll",
+                    "type": "file",
+                    "size": "332633",
+                    "hash": "0xF7DCDA37819E95027F99B056B7C09EF8",
+                    "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MMcLibrary.dll",
