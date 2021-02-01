@@ -40,14 +40,6 @@
                     "download": "https://drive.google.com/uc?id=1G_uFwrA2t7tvAREWMSm8sEQqoAsf1djD&export=download"
                 },
                 {
-                    "path": "lib/Config.ini",
-                    "name": "Config.ini",
-                    "type": "file",
-                    "size": "746",
-                    "hash": "0x423D7549EE286099CD9F399904152BAC",
-                    "download": "https://drive.google.com/uc?id=1GoxW8V83vAsm5WYnOvas23B0k_Zp5HxS&export=download"
-                },
-                {
                     "path": "lib/HlLibrary.dll",
                     "name": "HlLibrary.dll",
                     "type": "file",
