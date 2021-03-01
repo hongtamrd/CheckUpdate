@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://bit.ly/olympiard-tieuhoc",
     "directory": [
@@ -60,31 +60,47 @@
                     "name": "License.dat",
                     "type": "file",
                     "size": "108",
-                    "hash": "0xB55BD1834B2D87B774284A84D17A092C",
+                    "hash": "0x1D9F3A6E1A634DC284D04A5BB4031A99",
                     "download": "https://drive.google.com/uc?id=1IV8Z88R2igSkrmN6yPbXVgFBUFTy2Kt_&export=download"
+                },
+                {
+                    "path": "lib/MCdLibrary.dll",
+                    "name": "MCdLibrary.dll",
+                    "type": "file",
+                    "size": "538551",
+                    "hash": "0x1B0ABD80042B8E2DC44829564174E0A1",
+                    "download": "https://drive.google.com/uc?id=1wPp-EcbL6RSp4Oe6IzjjuOLMAQYHVRXv&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "274168",
-                    "hash": "0x14492BF9FA0A415B88E7D45EA7CC1B65",
+                    "size": "274484",
+                    "hash": "0x981B9BE20A19E43A0DF6D061219D6AA5",
                     "download": "https://drive.google.com/uc?id=1p7Q3Td4CraDgoB0oHJN07clZnA4gJkXu&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "797051",
-                    "hash": "0x8341E64C125F11C840EEF0BF7BCC484F",
+                    "size": "797783",
+                    "hash": "0xFB243A18CD29B035941AC79ADE8DD10C",
                     "download": "https://drive.google.com/uc?id=1RS56FugXLVGv8J06zZJA_-3O1LHFhkFh&export=download"
+                },
+                {
+                    "path": "lib/MMcLibrary.dll",
+                    "name": "MMcLibrary.dll",
+                    "type": "file",
+                    "size": "1977577",
+                    "hash": "0x4CA09CE7A631E9C76B6C4CB161D96C7E",
+                    "download": "https://drive.google.com/uc?id=1GuILpZ-mBtfFPmLX8d7stcAgFUVFxXFc&export=download"
                 },
                 {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
-                    "size": "1976493",
-                    "hash": "0xD147E608A39DCBF4647B9219DB5B61B7",
+                    "size": "1976491",
+                    "hash": "0x0383DB16D84C450912E9DE42878D5124",
                     "download": "https://drive.google.com/uc?id=1Jy9cC4B740481fj9ZElv3wWDLLU4KwKt&export=download"
                 },
                 {
@@ -356,7 +372,7 @@
             "name": "OlympiaRĐ.exe",
             "type": "file",
             "size": "8795136",
-            "hash": "0x24E6E28A24D0AEC77169C316A49AE5F1",
+            "hash": "0x07DBA15E6D707EE9E507E38C0974B269",
             "download": "https://drive.google.com/uc?id=1jhZlZA83OkcBDuCh3kCwG9OgVonAx4yn&export=download"
         }
     ]
