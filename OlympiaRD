@@ -1,5 +1,5 @@
 {
-    "version": "3.3",
+    "version": "3.4",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://bit.ly/OlympiaRD",
     "directory": [
@@ -20,8 +20,8 @@
                     "path": "help/Help.chm",
                     "name": "Help.chm",
                     "type": "file",
-                    "size": "5569281",
-                    "hash": "0x81ECE1196F065F127EF9150434D337A8",
+                    "size": "5182750",
+                    "hash": "0xE7F80B1BD03601C83EDA92BF8228D858",
                     "download": "https://drive.google.com/uc?id=1wPv4sc5asNYiY4rkKFmvtwetKwljVY5F&export=download"
                 }
             ]
@@ -59,40 +59,40 @@
                     "path": "lib/MCdLibrary.dll",
                     "name": "MCdLibrary.dll",
                     "type": "file",
-                    "size": "216953",
-                    "hash": "0xC995B15DB96AB7170F457C63DFAF59F7",
+                    "size": "115053",
+                    "hash": "0x17F1E39F05B9B01F12BDF406C73E40D3",
                     "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "108221",
-                    "hash": "0x47532EC1929773F6F9B01625B47A8DDF",
+                    "size": "38924",
+                    "hash": "0xEFC5FF168C25217F194071EA29E6F6BA",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "332741",
-                    "hash": "0x59268F02BF1AC493638EBD2A9467F445",
+                    "size": "800441",
+                    "hash": "0x4CFDCE18A72AF5FE7F9B013094552AA7",
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MMcLibrary.dll",
                     "name": "MMcLibrary.dll",
                     "type": "file",
-                    "size": "1943493",
-                    "hash": "0x237338EF2CAC1BF971E39460F40017AD",
+                    "size": "1976999",
+                    "hash": "0xCB9541C269C76573BF3E0381978C630D",
                     "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
                 },
                 {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
-                    "size": "1938471",
-                    "hash": "0x3807DF8606FEDCD791DE47C4CB9BE2FE",
+                    "size": "1978181",
+                    "hash": "0x8C2089273097DDD387CB838742AEECE0",
                     "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
                 },
                 {
@@ -347,8 +347,8 @@
             "path": "OlympiaRĐ.exe",
             "name": "OlympiaRĐ.exe",
             "type": "file",
-            "size": "8798208",
-            "hash": "0x42F68641CD56A87C7552096797DCA0AD",
+            "size": "8799744",
+            "hash": "0x502926741BF64A1DE2690199892F2D60",
             "download": "https://drive.google.com/uc?id=1hDD0hdNH9s4e7vxUyvGQC6yf3hlFVNGt&export=download"
         }
     ]
