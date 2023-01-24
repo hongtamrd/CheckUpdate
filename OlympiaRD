@@ -80,20 +80,20 @@
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
+                    "path": "lib/MMcLibrary.dll",
+                    "name": "MMcLibrary.dll",
+                    "type": "file",
+                    "size": "923497",
+                    "hash": "0x28FFDF9509CC521CC19438ECA1453D71",
+                    "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
+                },
+                {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
                     "size": "921807",
                     "hash": "0xCA09E8D11277ECC02B1246DA3AF7A565",
                     "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
-                },
-                {
-                    "path": "lib/Update.dll",
-                    "name": "Update.dll",
-                    "type": "file",
-                    "size": "116298",
-                    "hash": "0x1021466CB057080C79E243475F1CA4B9",
-                    "download": "https://drive.google.com/uc?id=1TXLCvvoQdYGCH8Zklc-S4GN9qR3lEpL9&export=download"
                 },
                 {
                     "path": "lib/Update.dll",
