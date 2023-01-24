@@ -1,5 +1,5 @@
 {
-    "version": "3.4",
+    "version": "3.6",
     "link_home": "http://hongtamrd.com",
     "link_update": "http://by.com.vn/OlympiaRD",
     "directory": [
@@ -20,8 +20,8 @@
                     "path": "help/Help.chm",
                     "name": "Help.chm",
                     "type": "file",
-                    "size": "5182750",
-                    "hash": "0xE7F80B1BD03601C83EDA92BF8228D858",
+                    "size": "5439750",
+                    "hash": "0xECC13D96541E264C8E9F248764106885",
                     "download": "https://onedrive.live.com/download?cid=6A1E9B23D03A3B41&resid=6A1E9B23D03A3B41%21217401&authkey=ANKc-LS4QtCJh8g"
                 }
             ]
@@ -59,40 +59,40 @@
                     "path": "lib/MCdLibrary.dll",
                     "name": "MCdLibrary.dll",
                     "type": "file",
-                    "size": "115053",
-                    "hash": "0x17F1E39F05B9B01F12BDF406C73E40D3",
+                    "size": "114995",
+                    "hash": "0x1212109251147DDFDC8C100F71859AF4",
                     "download": "https://drive.google.com/uc?id=1p7XJuBlj0tgS_sEYSKdw4xA0WTErxfDg&export=download"
                 },
                 {
                     "path": "lib/MChLibrary.dll",
                     "name": "MChLibrary.dll",
                     "type": "file",
-                    "size": "38924",
-                    "hash": "0xEFC5FF168C25217F194071EA29E6F6BA",
+                    "size": "34696",
+                    "hash": "0x27FCA430ACABECF001163ECB86777BF6",
                     "download": "https://drive.google.com/uc?id=1ZCmgV0xcSkv5xcrzUzdvrs_3jzgkeRtA&export=download"
                 },
                 {
                     "path": "lib/MCLibrary.dll",
                     "name": "MCLibrary.dll",
                     "type": "file",
-                    "size": "803761",
-                    "hash": "0xFB71E98C1B2EE04F38C8A2498BE01C9E",
+                    "size": "805923",
+                    "hash": "0x2F3309CF894B85D79BEB68180F37D784",
                     "download": "https://drive.google.com/uc?id=1182bK_fMbW0YZKNS_AYr_i0tz1bESGVa&export=download"
                 },
                 {
                     "path": "lib/MMcLibrary.dll",
                     "name": "MMcLibrary.dll",
                     "type": "file",
-                    "size": "1977007",
-                    "hash": "0x86E525CAAB977068A21A69D7EC7124C4",
+                    "size": "1084105",
+                    "hash": "0xAACA2BB459A2E21EFE6154761D107233",
                     "download": "https://drive.google.com/uc?id=1QstRxZZOtDi4bZmLElVDsaWoFdB0CGFO&export=download"
                 },
                 {
                     "path": "lib/MTsLibrary.dll",
                     "name": "MTsLibrary.dll",
                     "type": "file",
-                    "size": "1978189",
-                    "hash": "0x6F11895AE060CFC35C29A6CF59FCC4B8",
+                    "size": "1086307",
+                    "hash": "0xCD060D5B45C7AAB852919919EF48DC7E",
                     "download": "https://drive.google.com/uc?id=1A6mIwTvk_zjAS13QAf49yEcsj5bGWl9u&export=download"
                 },
                 {
@@ -199,56 +199,56 @@
                             "path": "lib/image/Manh0.png",
                             "name": "Manh0.png",
                             "type": "file",
-                            "size": "237282",
-                            "hash": "0xF8FE91EDDCFBC53B2C3ED5FC0F3E5765",
+                            "size": "74304",
+                            "hash": "0xF851CE9E3FCC9A88CCEECE2AA7DF85BA",
                             "download": "https://drive.google.com/uc?id=12fj-d60HkzZPFmYuceJVKciW_3GPSxWq&export=download"
                         },
                         {
                             "path": "lib/image/Manh1.png",
                             "name": "Manh1.png",
                             "type": "file",
-                            "size": "83916",
-                            "hash": "0xC0081161C40DB4FFCDF3D02C64A9537D",
+                            "size": "18450",
+                            "hash": "0xCFB8009D1D29A15C74B91AE1A5CFCD9B",
                             "download": "https://drive.google.com/uc?id=1p5U78_Ut5nNSe3avr-LPaYWTY9cet8XX&export=download"
                         },
                         {
                             "path": "lib/image/Manh2.png",
                             "name": "Manh2.png",
                             "type": "file",
-                            "size": "81832",
-                            "hash": "0x636DE69FFA2C221B1085DF138D80CE49",
+                            "size": "19614",
+                            "hash": "0x0CFCA8B1CFE8FFC40D742A66B857FE0F",
                             "download": "https://drive.google.com/uc?id=1NyWq5tfDR19rON6HAgTwvLK2nymkHiYW&export=download"
                         },
                         {
                             "path": "lib/image/Manh3.png",
                             "name": "Manh3.png",
                             "type": "file",
-                            "size": "77090",
-                            "hash": "0x0914CB5DF3A924C4B9268A253F79FC33",
+                            "size": "18531",
+                            "hash": "0x9DC03C3C390844394A41F7809A016587",
                             "download": "https://drive.google.com/uc?id=1LlbFe1OZrM-VCYryxVXw_2oZK_iUJJfp&export=download"
                         },
                         {
                             "path": "lib/image/Manh4.png",
                             "name": "Manh4.png",
                             "type": "file",
-                            "size": "84633",
-                            "hash": "0x17E271D57658D660A189387946251FE1",
+                            "size": "20041",
+                            "hash": "0xF2E5D878954EF9A83173975A46365A8A",
                             "download": "https://drive.google.com/uc?id=1jrgGXYp21mv3DVn0VQ62b-25Or6FxUXU&export=download"
                         },
                         {
                             "path": "lib/image/Manh5.png",
                             "name": "Manh5.png",
                             "type": "file",
-                            "size": "82194",
-                            "hash": "0x8ABDD5918F6791EAC725CEBB42001C1F",
+                            "size": "13869",
+                            "hash": "0xBFF6250786E14F4CDA50124D9AD6A14B",
                             "download": "https://drive.google.com/uc?id=1LBIgHPLdpXezjkQcEhz1NJMH15bWyB58&export=download"
                         },
                         {
                             "path": "lib/image/Manh6.png",
                             "name": "Manh6.png",
                             "type": "file",
-                            "size": "82194",
-                            "hash": "0x8ABDD5918F6791EAC725CEBB42001C1F",
+                            "size": "13869",
+                            "hash": "0xBFF6250786E14F4CDA50124D9AD6A14B",
                             "download": "https://drive.google.com/uc?id=126uXvHjdq26-haQ-ONWdz2EHsNPGbTcC&export=download"
                         },
                         {
@@ -347,8 +347,8 @@
             "path": "OlympiaRĐ.exe",
             "name": "OlympiaRĐ.exe",
             "type": "file",
-            "size": "8804352",
-            "hash": "0xD110121A5986A4E6BF0DE2F7A58380EC",
+            "size": "8525312",
+            "hash": "0xE152EB282C0D77CA79F27FBB687268F4",
             "download": "https://onedrive.live.com/download?cid=6A1E9B23D03A3B41&resid=6A1E9B23D03A3B41%21217438&authkey=ADGUqLjnayduRp4"
         }
     ]
