@@ -1252,11 +1252,6 @@
                             "download": "https://drive.google.com/uc?id=1m6lYGKxvb15Jus2L9IBpF9GvvSVccouc&export=download"
                         }
                     ]
-                },
-                {
-                    "path": "lib/sound",
-                    "name": "sound",
-                    "type": "directory"
                 }
             ]
         },
