@@ -60,7 +60,7 @@
                     "name": "MayChu.exe",
                     "type": "file",
                     "size": "15041024",
-                    "hash": "0x9C3593A9FBED8F919464ACC754DA53FC",
+                    "hash": "0xF817DC1E6D0E7A6BB89FD273F675B10C",
                     "download": "https://onedrive.live.com/download?cid=6A1E9B23D03A3B41&resid=6A1E9B23D03A3B41%21311537&authkey=ALmPFXpp0VtcK4w"
                 },
                 {
@@ -1252,8 +1252,23 @@
                             "download": "https://drive.google.com/uc?id=1m6lYGKxvb15Jus2L9IBpF9GvvSVccouc&export=download"
                         }
                     ]
+                },
+                {
+                    "path": "lib/sound",
+                    "name": "sound",
+                    "type": "directory"
+                },
+                {
+                    "path": "lib/temp",
+                    "name": "temp",
+                    "type": "directory"
                 }
             ]
+        },
+        {
+            "path": "log",
+            "name": "log",
+            "type": "directory"
         },
         {
             "path": "OlympiaRĐ.exe",
